@@ -1,0 +1,12 @@
+{
+  "name": "discretemath-ts",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node --loader ts-node/esm src/logicalOperators.ts"
+  },
+  "dependencies": {
+    "typescript": "^4.0.0",
+    "ts-node": "^10.0.0"
+  }
+}
