@@ -20,11 +20,11 @@
 
 ## Usage
 
-### 1. クローン & セットアップ
+## 1. クローン & セットアップ
 まずは、このリポジトリをクローンし、TypeScriptのコンパイル環境を整えます。
 
 
-# リポジトリをクローン
+### リポジトリをクローン
 ```bash
 git clone https://github.com/your-username/DiscreteMath-TS.git
 cd DiscreteMath-TS
@@ -32,35 +32,35 @@ cd DiscreteMath-TS
 もし、TypeScriptをインストールしていない場合は、以下のコマンドでインストールしてください。
 
 
-# TypeScriptのインストール
+### TypeScriptのインストール
 ```bash
 npm install -g typescript
 ```
 また、TypeScriptコードを直接実行したい場合は、ts-nodeを利用することもできます。
 
 
-# ts-nodeのインストール
+### ts-nodeのインストール
 ```bash
 npm install -g ts-node
 ```
-### 2. スクリプトの実行
+## 2. スクリプトの実行
 それぞれのトピックは独立したスクリプトとして用意されており、各スクリプトで特定の離散数学の概念が実装されています。
 
 例として、src フォルダ内の論理演算のサンプルを実行するには次のコマンドを使用します：
 
 
-# 論理演算のサンプルを実行
+### 論理演算のサンプルを実行
 ```bash
 npx ts-node src/logicalOperators.ts
 ```
-### 3. 実行可能なトピック一覧
+## 3. 実行可能なトピック一覧
 各トピックごとに実行可能なスクリプトが含まれています。主要なトピックは以下の通りです：
 
 論理演算: logicalOperators.ts
 集合論: setTheory.ts
 グラフ理論: graphTheory.ts
 計算理論: computationTheory.ts
-4. 演習問題
+##　4. 演習問題
 各トピックには演習問題が用意されています。exercises フォルダ内のファイルを活用し、課題にチャレンジしながら学習を進めてください。
 
 # ライセンス
