@@ -60,7 +60,8 @@ npx ts-node src/logicalOperators.ts
 集合論: setTheory.ts
 グラフ理論: graphTheory.ts
 計算理論: computationTheory.ts
-##　4. 演習問題
+
+## 4. 演習問題
 各トピックには演習問題が用意されています。exercises フォルダ内のファイルを活用し、課題にチャレンジしながら学習を進めてください。
 
 # ライセンス
