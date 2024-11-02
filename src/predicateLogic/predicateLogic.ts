@@ -1,3 +1,4 @@
+// 述語論理（Predicate Logic）
 // サンプルを実行
 // npx ts-node src/predicateLogic/predicateLogic.ts
 
