@@ -1,3 +1,7 @@
+// 集合の操作
+// 実行
+// npx ts-node src/setTheory.ts
+
 // 集合の定義
 const setA = new Set([1, 2, 3]);
 const setB = new Set([2, 3, 4]);
