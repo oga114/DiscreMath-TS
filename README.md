@@ -56,10 +56,20 @@ npx ts-node src/logicalOperators.ts
 ## 3. 実行可能なトピック一覧
 各トピックごとに実行可能なスクリプトが含まれています。主要なトピックは以下の通りです：
 
+命題論理の基礎:propositionalLogic.ts
+
+述語論理:predicateLogic.ts
+
+証明技術: proofTechniques.ts
+
 論理演算: logicalOperators.ts
+
 集合論: setTheory.ts
+
 グラフ理論: graphTheory.ts
+
 計算理論: computationTheory.ts
+
 
 ## 4. 演習問題
 各トピックには演習問題が用意されています。exercises フォルダ内のファイルを活用し、課題にチャレンジしながら学習を進めてください。
