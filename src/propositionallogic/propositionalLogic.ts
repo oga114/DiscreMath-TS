@@ -44,3 +44,6 @@ console.log("NOT A:", not(A));
 console.log("XOR (A, B):", xor(A, B));
 console.log("A implies B:", implies(A, B));
 console.log("(AかつB)または¬A:", result);
+
+// ここまで終了したら以下の課題に進んでください。
+// src/exercises/propositionallogicExercises.ts

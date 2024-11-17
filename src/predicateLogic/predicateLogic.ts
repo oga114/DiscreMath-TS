@@ -42,3 +42,6 @@ const someStudents = exists(people, isStudent);
 
 console.log("For all are students:", allStudents); // false
 console.log("There exists a student:", someStudents); // true
+
+// ここまで終了したら以下の課題に進んでください。
+// src/exercises/predicateLogicExercises.ts
